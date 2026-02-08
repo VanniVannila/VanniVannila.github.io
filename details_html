@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" /> 
+        <title>AntiquariusMysticus Produktdetails</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+<body>
+
+    <!-- TOP BAR -->
+    <header class="topbar">
+        <a href="index.html" class="logo">
+        <img src="antiqueshop_icon.png" alt="Logo aus Vollmond und darin leigenden Seerose, die sieben Chakras leuchten angeordnet in der vertikalen Mittellinie">
+        </a>
+        <span class="sitename">AntiquariusMysticus.com</span>
+    </header>
+
+    <!-- SIDEBAR -->
+    <nav class="sidebar">
+        <ul>
+        <li><a href="artikel.html">Artikel</a></li>
+        <li><a href="oeffnungszeiten.html">Öffnungszeiten</a></li>
+        <li><a href="ueber-uns.html">Über uns</a></li>
+        <li><a href="philosophie.html">Philosophie</a></li>
+        </ul>
+    </nav>
+
+
+  <!--inhalt-->
+
+<main class="content">
+
+  <h1>Produktdetails</h1>
+    <div>
+       <h2>Perlmutnachtschnecke</h2>
+        
+       <table>
+            <tr>
+                <th>
+                    <img    src="PXL_20260206_234845229.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="PXL_20260206_234851188.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="Meermuschel_hand.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+            </tr>
+       </table>
+
+        <div class="produkt_details_bilder">
+
+        </div>
+        <div class="produkt_details_inhalt">
+            <ul>
+                <li> <p>Durch ein Erdritual mit der Muladhara Chakra verbundenes Objekt. Hilft bei emotionaler Destabilisierung und Probleme mit dem kreativem Flow.</p> </li>
+                <li> <p>Anwendung: ein bis zweimal im Monat in energischen Ölen ihrer Wahl einsalben und mit in die Badewanne legen (nur bei Vollmond oder Finsternis!!)</p> </li>
+                <li> <p>Preis: 3000,41€ </p></li>
+            </ul>
+        </div>
+    </div>
+
+    <div>
+       <h2>Ostseeohr</h2>
+
+        <table>
+            <tr>
+                <th>
+                    <img    src="PXL_20260206_235549039.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="PXL_20260206_235517671.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="ohrmuschel_hand.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+            </tr>
+       </table>
+
+        <div class="produkt_details_inhalt">
+            <ul>
+                <li> <p>Bei Polarlicht aus den Tiefen der Ostsee gefischt.</p> </li>
+                <li> <p>Anwendung: die Kraft des Ohres ist so stark, dass es sich perfekt eignet zum Aufladen von geringgängigeren Edelsteinen zu ihrem jeweiligen Gebrauch. Wenn du dein Ohr dranhällst, hörst du vielleicht die Stimme von <span class="mystisch">Bing-Bang-Bhudda</span> persönlich! </p> </li>
+                <li> <p>Preis: 40.000€ </p></li>
+            </ul>
+        </div>
+    </div>
+
+     <div>
+       <h2>Goldener Komet</h2>
+
+        <table>
+            <tr>
+                <th>
+                    <img    src="PXL_20260206_235447876.PORTRAIT.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="meteroid_closeup.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="PXL_20260207_002052510.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+            </tr>
+       </table>
+
+        <div class="produkt_details_inhalt">
+            <ul>
+                <li> <p>Kleiner Komet der vom Himmel direkt vor <span class="mystisch">Bing-Bang-Bhudda's</span> Kopf gefallen ist, bevor er zum Bhudda wurde. 100% echtes Gold!!</p> </li>
+                <li> <p>Anwendung: wenn dieses Objekt in deine Hände geraten sollte, dann wurdest du von <span class="mystisch">Bing-Bang-Bhudda</span> persönlich auserwählt! Alle deine Chagrin sollen erlöst werden. Doch pass auf! Nicht du wählst den Stein, sondern der Stein wählt dich! </p> </li>
+                <li> <p>eigentlich unbezahlbar, aber nur für dich: <span class="mystisch"> %SALE% </span> nur noch 999.000€!!!</p> </li>
+            </ul>
+        </div>
+    </div>
+
+     <div>
+       <h2>Rosenquarz Kugel</h2>
+
+        <table>
+            <tr>
+                <th>
+                    <img    src="quarz_closeup.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="PXL_20260206_234639052.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+                 <th>
+                    <img    src="PXL_20260206_234649688.PORTRAIT.ORIGINAL.jpg" 
+                            alt="Spitzes Perlmutschneckenhaus, auch Perlmutnachtschnecke genannt."
+                             style="width: 132px;" > 
+                </th>
+            </tr>
+       </table>
+
+        <div class="produkt_details_inhalt">
+            <ul>
+                <li> <p>Kleine kompakte Kugel aus reinem hellem Rosenquarz.</p> </li>
+                <li> <p>Anwendung: Bei Stimmungsschwankungen, Brustschmerz oder Depressionen. In der linken Hand (wichtig!) erwähmen, dann rollen auf dem Brustkorb bis die Schmerzen gelindert sind. Muss nach jeder Anwendung RICHTIG aufgeladen werden, sonst ist die Energie nicht stark genug, um deine Anahata-Chakra zu öffnen!</p> </li>
+                <li> <p>!DIEBSTAHL GEMELDET! </p> </li>
+                <li> <p>leider ist dieser Artikel aufgrund von Diebstahl nicht vorhanden, wenn sie diesen Stein irgentwo beobachten, bitte sagen sie zeitnah bescheid! </p> </li>
+            </ul>
+        </div>
+</main>
+</body>
